@@ -1,7 +1,4 @@
-# Thiago Kasper de Souza
-- 👀 I’m interested in Machine Learning, Python, Javascript, Node.js, TDD with JS, Selenium Python and much more.
-- 🌱 I’m currently learning Javascript, Machine Learning with Python and Web Scraping with Selenium Python
-- 💞️ I’m looking to collaborate on these areas, so if you think i can help you in some way, you are more than welcome to contact me!
+# Hi there, my name's Thiago Kasper de Souza, but people call me Kasper ☕
 
 <!---
 ThiagoKS-7/ThiagoKS-7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +12,31 @@ You can click the Preview link to take a look at your changes.
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoKS-7&layout=compact&langs_count=7&theme=nightowl"/>
 </div>
   
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Some infos about me:
+
+```javascript
+const kasper = {
+    pronouns: "He" | "Him",
+    code: ["Python", "Javascript", "C", "Java],
+    askMeAbout: [ "web_dev", "Machine_Learning_<3", "IOT"],
+    technologies: {
+        mobile: ["React Native", "Flutter", "Android" ],
+        frontEnd: {
+            js: ["Vue.js", "um pouco de React"],
+            css: ["material-ui", "styled-components", "bootstrap"]
+        },
+        backEnd: {
+            js: ["node"],
+            python: ["django", "Flask"]
+        },
+        devOps: ["Docker🐳"],
+        databases: ["mongoDB", "MySql", "PgSQL"],
+        misc: ["selenium python"]
+    },
+    currentProject: "Aprendendo sobre MLOps",
+    learning: ["Machine learning API's", "Tensorflow", "NoSQL", "Google Cloud", "OCI"].
+};
+```
   
 <h4 align="left">Languages and Tools:</h4>  
 <div style="display: inline_block">
