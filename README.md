@@ -12,6 +12,7 @@ You can click the Preview link to take a look at your changes.
 <div align="left">
   <a href="https://github.com/ThiagoKS-7">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoKS-7&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoKS-7&layout=compact&langs_count=7&theme=nightowl"/>
 </div>
   
   
@@ -29,7 +30,9 @@ You can click the Preview link to take a look at your changes.
   <img align="center" alt="Docker-logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg"/>
   <img align="center" alt="Flask-logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg"/>
   <img align="center" alt="Flutter-logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
-  <img align="center" alt="C-logo" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img align="center" alt="C-logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img align="center" alt="MySQL-logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="center" alt="MongoDb-logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
 </div>
   
 <h4 align="left">Connect with me:</h4> 
