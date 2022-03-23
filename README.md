@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 <h4 align ="left"> My Metrics...</h4>
 <div align="left">
   <a href="https://github.com/ThiagoKS-7">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoKS-7&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoKS-7&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
 </div>
   
   
