@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ThiagoKS-7
+# Thiago Kasper de Souza
 - 👀 I’m interested in Machine Learning, Python, Javascript, Node.js, TDD with JS, Selenium Python and much more.
 - 🌱 I’m currently learning Javascript, Machine Learning with Python and Web Scraping with Selenium Python
 - 💞️ I’m looking to collaborate on these areas, so if you think i can help you in some way, you are more than welcome to contact me!
