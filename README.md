@@ -17,8 +17,8 @@ You can click the Preview link to take a look at your changes.
 ```javascript
 const kasper = {
     pronouns: "He" | "Him",
-    code: ["Python", "Javascript", "C", "Java],
-    askMeAbout: [ "web_dev", "Machine_Learning_<3", "IOT"],
+    code: ["Python", "Javascript", "C", "Java"],
+    askMeAbout: [ "web_dev", "Machine_Learning_<3", "IOT", "Computer_Vision"],
     technologies: {
         mobile: ["React Native", "Flutter", "Android" ],
         frontEnd: {
