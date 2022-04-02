@@ -56,15 +56,14 @@ const thiago = {
   <img align="center" alt="MySQL-logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   <img align="center" alt="Postgres-logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"  
  />
-  <img align="right" alt="T-pic" height="180" style="border-radius:50px;" src="https://share-cdn.picrew.me/shareImg/org/202204/338224_pAXZAN92.png">    
+  <img align="right" alt="T-pic" height="180" style="border-radius:50px;" src="https://share-cdn.picrew.me/shareImg/org/202204/338224_pAXZAN92.png">
 </div>
-  
 <h4 align="left">Connect with me:</h4> 
 <div> 
 <!--   <a href="https://instagram.com/mcalou" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> -->
   <a href = "mailto:thiagokasper101@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/thiagokasper" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+     <img align="right" height="90" alt="GIF" src="https://media.giphy.com/media/RK5KD6UcUpAt92zZvt/giphy.gif" />
 </div>
 
 
