@@ -20,7 +20,7 @@ const thiago = {
     code: ["Python", "Javascript", "C", "Java"],
     askMeAbout: [ "web_dev", "Machine_Learning_<3", "IOT", "Computer_Vision"],
     technologies: {
-        mobile: ["React Native", "Flutter", "Android" ],
+        mobile: ["React Native", "Ionic", "Flutter", "Android" ],
         frontEnd: {
             js: ["Vue.js", "um pouco de React"],
             css: ["material-ui", "styled-components", "bootstrap"]
