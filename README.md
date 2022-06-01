@@ -56,8 +56,13 @@ const thiago = {
   <img align="center" alt="Anaconda-logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original-wordmark.svg" />
   <img align="center" alt="MySQL-logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   <img align="center" alt="Postgres-logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"  
- />
-  <img align="right" alt="T-pic" height="180" style="border-radius:50px;" src="https://share-cdn.picrew.me/shareImg/org/202204/338224_pAXZAN92.png">
+ /> 
+  <img align="center" alt="react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />      
+  <img align="center" alt="arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />  
+  <img align="center" alt="django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />    
+  <img align="center" alt="ionic" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" />     
+  <img align="center" alt="angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />   
+  <img align="right" alt="T-pic" height="180" style="border-radius:50px;" src="https://share-cdn.picrew.me/shareImg/org/202204/338224_pAXZAN92.png">   
 </div>
 <h4 align="left">Connect with me:</h4> 
 <div> 
