@@ -18,23 +18,24 @@ You can click the Preview link to take a look at your changes.
 const thiago = {
     pronouns: "He" | "Him",
     code: ["Python", "Javascript", "C", "Java"],
-    askMeAbout: [ "web_dev", "Machine_Learning_<3", "IOT", "Computer_Vision"],
+    askMeAbout: [ "Web_Dev","Mobile_Dev", "Machine_Learning_<3", "IOT", "Computer_Vision"],
     technologies: {
         mobile: ["React Native", "Ionic", "Flutter", "Android" ],
         frontEnd: {
-            js: ["Vue.js", "um pouco de React"],
+            js: ["Vue.js", "um pouco de React", "um pouco de Angular"],
             css: ["material-ui", "styled-components", "bootstrap"]
         },
         backEnd: {
-            js: ["node"],
-            python: ["django", "Flask"]
+            js: ["Node.js e Express"],
+            python: ["Django", "Flask"],
+            others: ["um pouco de PHP (Laravel)", "Golang" ] 
         },
         devOps: ["Docker🐳"],
-        databases: ["mongoDB", "MySql", "PgSQL"],
+        databases: ["mongoDB", "MySql", "PgSQL", "Sqlite"],
         misc: ["selenium python"]
     },
     currentProject: "Aprendendo sobre MLOps",
-    learning: ["Machine learning API's", "Tensorflow", "NoSQL", "Google Cloud", "OCI"].
+    learning: ["Machine learning API's", "Tensorflow", "NoSQL", "Google Cloud", "OCI", "React Native", "Flutter"].
 };
 ```
   
