@@ -40,7 +40,7 @@ const thiago = {
 ```
   
 <h4 align="left">Languages and Tools:</h4>  
-<div style="display: inline_block">
+<div style="display: inline_block; mb-8">
   <img align="center" alt="Vue.js-logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />
   <img align="center" alt="Python-logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Flask-logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg"/>
@@ -62,14 +62,15 @@ const thiago = {
   <img align="center" alt="django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />    
   <img align="center" alt="ionic" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" />     
   <img align="center" alt="angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />   
-  <img align="right" alt="T-pic" height="180" style="border-radius:50px;" src="https://share-cdn.picrew.me/shareImg/org/202204/338224_pAXZAN92.png">   
-</div>
+</div> 
 <h4 align="left">Connect with me:</h4> 
 <div> 
 <!--   <a href="https://instagram.com/mcalou" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> -->
   <a href = "mailto:thiagokasper101@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/thiagokasper" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+      <img align="right" alt="T-pic" height="180" style="margin-top:10px; border-radius:50px;" src="https://share-cdn.picrew.me/shareImg/org/202204/338224_pAXZAN92.png"> 
      <img align="right" height="90" alt="GIF" src="https://media.giphy.com/media/RK5KD6UcUpAt92zZvt/giphy.gif" />
+
 </div>
 
 
