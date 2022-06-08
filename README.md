@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 <div align="left">
   <a href="https://github.com/ThiagoKS-7">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoKS-7&show_icons=true&theme=nightowl&include_all_commits=true&count_private=false"/>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoKS-7&layout=compact&langs_count=12&theme=nightowl"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoKS-7&layout=compact&langs_count=10&theme=nightowl"/>
 </div>
   
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Some infos about me:
@@ -28,7 +28,7 @@ const thiago = {
         backEnd: {
             js: ["Node.js e Express"],
             python: ["Django", "Flask"],
-            others: ["um pouco de PHP (Laravel)", "Golang" ] 
+            others: ["um pouco de PHP (Laravel)", "Golang","Ruby" ] 
         },
         devOps: ["Docker🐳"],
         databases: ["mongoDB", "MySql", "PgSQL", "Sqlite"],
