@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 ```javascript
 const thiago = {
     pronouns: "He" | "Him",
-    code: ["Python", "Javascript", "C", "Java","Ruby"],
+    code: ["Python", "Javascript", "C", "Java","Ruby", "Go"],
     askMeAbout: [ "Web_Dev","Mobile_Dev", "Machine_Learning_<3", "IOT", "Computer_Vision"],
     technologies: {
         mobile: ["React Native", "Ionic", "Flutter", "Android" ],
