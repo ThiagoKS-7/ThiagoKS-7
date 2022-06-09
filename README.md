@@ -35,7 +35,16 @@ const thiago = {
         misc: ["selenium python"]
     },
     currentProject: "Aprendendo sobre MLOps",
-    learning: ["Machine learning API's", "Tensorflow", "NoSQL", "Google Cloud", "OCI", "React Native", "Flutter"].
+    learning: [
+      "Machine learning API's",
+      "Tensorflow", "NoSQL",
+      "Google Cloud", "OCI",
+      "React Native",
+      "Flutter",
+      "Kubernetes",
+      "Elastic stack",
+      "RabbitMQ"
+    ].
 };
 ```
   
@@ -64,8 +73,9 @@ const thiago = {
   <img align="center" alt="django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />    
   <img align="center" alt="ionic" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" />     
   <img align="center" alt="angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
-  <img align="center" alt="raspberry pi" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" />  
-      
+  <img align="center" alt="raspberry pi" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" /> 
+  <img align="center" alt="c plus plus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+  <img align="center" alt="composer" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" />  
 </div> 
 <h4 align="left">Connect with me:</h4> 
 <div> 
