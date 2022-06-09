@@ -37,8 +37,10 @@ const thiago = {
     currentProject: "Aprendendo sobre MLOps",
     learning: [
       "Machine learning API's",
-      "Tensorflow", "NoSQL",
-      "Google Cloud", "OCI",
+      "Tensorflow", 
+      "NoSQL",
+      "Google Cloud",
+      "OCI",
       "React Native",
       "Flutter",
       "Kubernetes",
