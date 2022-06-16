@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 <div align="left">
   <a href="https://github.com/ThiagoKS-7">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoKS-7&show_icons=true&theme=nightowl&include_all_commits=true&count_private=false"/>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoKS-7&hide=jupyter%20notebook,html,css,scss,javascript&langs_count=8&layout=compact&theme=nightowl"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoKS-7&hide=jupyter%20notebook,html,css,scss,javascript&langs_count=8&layout=compact&theme=nightowl"/>
 </div>
   
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Some infos about me:
@@ -78,15 +78,17 @@ const thiago = {
   <img align="center" alt="raspberry pi" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" /> 
   <img align="center" alt="c plus plus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
   <img align="center" alt="Oracle-logo" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" /> 
-</div> 
-<h4 align="left">Connect with me:</h4> 
-<div> 
-<!--   <a href="https://instagram.com/mcalou" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> -->
+</div>
+<div>
+  <h4 align="left">Connect with me:</h4>
   <a href = "mailto:thiagokasper101@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/thiagokasper" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-      <img align="right" alt="T-pic" height="180" style="margin-top:10px; border-radius:50px;" src="https://share-cdn.picrew.me/shareImg/org/202204/338224_pAXZAN92.png"> 
-     <img align="right" height="90" alt="GIF" src="https://media.giphy.com/media/RK5KD6UcUpAt92zZvt/giphy.gif" />
-
+</div>
+<br/>
+<div> 
+  <img height="200em" align="center" src="https://activity-graph.herokuapp.com/graph?username=ThiagoKS-7&theme=redical&bg_color=10142e&color=0d112b&radius=4"/>
+  <img align="right" alt="T-pic" height="180" style="margin-top:10px; border-radius:50px;" src="https://share-cdn.picrew.me/shareImg/org/202204/338224_pAXZAN92.png"> 
+  <img align="right" height="90" alt="GIF" src="https://media.giphy.com/media/RK5KD6UcUpAt92zZvt/giphy.gif" />
 </div>
 
 
