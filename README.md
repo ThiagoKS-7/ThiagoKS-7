@@ -17,20 +17,20 @@ You can click the Preview link to take a look at your changes.
 ```javascript
 const thiago = {
     pronouns: "He" | "Him",
-    code: ["Python", "Javascript", "C", "Java","Ruby", "Go"],
+    code: ["Python", "Javascript", "C", "Java","Ruby", "Go", "Arduino", "Jupyter_Notebook"],
     askMeAbout: [ "Web_Dev","Mobile_Dev", "Machine_Learning_<3", "IOT", "Computer_Vision"],
     technologies: {
         mobile: ["React Native", "Ionic", "Flutter", "Android" ],
         frontEnd: {
-            js: ["Vue.js", "um pouco de React", "um pouco de Angular"],
+            js: ["Vue.js", "React.js", "um pouco de Angular", "Next.js"],
             css: ["material-ui", "styled-components", "bootstrap"]
         },
         backEnd: {
             js: ["Node.js e Express"],
             python: ["Django", "Flask"],
-            others: ["um pouco de PHP (Laravel)", "Golang","Ruby" ] 
+            others: ["PHP (Laravel)", "Golang" ] 
         },
-        devOps: ["Docker🐳"],
+        devOps: ["Docker🐳", "Docker-compose"],
         databases: ["mongoDB", "MySql", "PgSQL", "Sqlite"],
         misc: ["selenium python"]
     },
