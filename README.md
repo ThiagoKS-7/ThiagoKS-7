@@ -34,7 +34,7 @@ const thiago = {
         databases: ["mongoDB", "MySql", "PgSQL", "Sqlite"],
         misc: ["selenium python"]
     },
-    currentProject: "Aprendendo sobre MLOps",
+    currentProject: "Trying to learn image uploading to cloud",
     learning: [
       "Machine learning API's",
       "Tensorflow", 
@@ -44,6 +44,9 @@ const thiago = {
       "React Native",
       "Flutter",
       "Kubernetes",
+      "Kafka",
+      "Spark",
+      "DDD".
       "Elastic stack",
       "RabbitMQ"
     ].
