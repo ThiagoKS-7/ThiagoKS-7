@@ -41,6 +41,7 @@ const thiago = {
       "NoSQL",
       "Google Cloud",
       "OCI",
+      "PHP (Laravel)",
       "React Native",
       "Flutter",
       "Kubernetes",
