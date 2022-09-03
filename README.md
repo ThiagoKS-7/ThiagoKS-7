@@ -98,7 +98,7 @@ const thiago = {
  
  <div align="left" style="display:flex; justify-content: space-between;">
    <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=ThiagoKS-7&background=10142e&color=0d112b&theme=tokyonight_duo" alt="ThiagoKS-7" /> 
-     <img alt="T-pic" align="right" height="220" style="margin-left:10em; margin-top:10px; border-radius:50px;" src="https://user-images.githubusercontent.com/83460816/182281431-45ca6d26-8fd2-49d0-8c0d-0186ba7ee341.png">
+     <img alt="T-pic" align="right" height="210" style="margin-left:10em; margin-top:10px; border-radius:50px;" src="https://user-images.githubusercontent.com/83460816/182281431-45ca6d26-8fd2-49d0-8c0d-0186ba7ee341.png">
 </div>
 <h4 align="left">Main Languages/Frameworks:</h4>  
 <div style="display: inline_block; mb-8; mt-8">
