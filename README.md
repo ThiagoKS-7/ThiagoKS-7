@@ -111,6 +111,8 @@ const thiago = {
   <img align="center" alt="Js-logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Mui-logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg">
 </div>
+ 
+  ![Snake animation](https://github.com/ThiagoKS-7/ThiagoKS-7/blob/output/github-contribution-grid-snake.svg)
 <div>
   <h4 align="left">Connect with me:</h4>
   <a href = "mailto:thiagokasper101@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
