@@ -89,6 +89,7 @@ const thiago = {
  <div align="center">
    <img height="220em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ThiagoKS-7&background=10142e&color=0d112b&theme=tokyonight_duo" alt="ThiagoKS-7" /> 
    <br/>
+   <br/>
     <img height="240em" align="center" src="https://activity-graph.herokuapp.com/graph?username=ThiagoKS-7&theme=redical&bg_color=10142e&color=0d112b&radius=4"/>
 </div>
 <h4 align="left">Main Languages/Frameworks:</h4>  
