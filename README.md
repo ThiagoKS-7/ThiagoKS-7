@@ -15,6 +15,16 @@ You can click the Preview link to take a look at your changes.
 <details>
   <summary style="font-size:30px; font-weight:bold"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> <h3>Some infos about me:</h3></summary>
   
+ <div align="center">
+  <img height="180em" src="https://raw.githubusercontent.com/ThiagoKS-7/ThiagoKS-7/master/profile-summary-card-output/radical/0-profile-details.svg" />
+  <img height="180em" src="https://raw.githubusercontent.com/ThiagoKS-7/ThiagoKS-7/master/profile-summary-card-output/radical/1-repos-per-language.svg" />
+  <img height="180em" src="https://raw.githubusercontent.com/ThiagoKS-7/ThiagoKS-7/master/profile-summary-card-output/radical/2-most-commit-language.svg" />
+  <img height="180em" src="https://raw.githubusercontent.com/ThiagoKS-7/ThiagoKS-7/master/profile-summary-card-output/radical/3-stats.svg" />
+  <img height="180em" src="https://raw.githubusercontent.com/ThiagoKS-7/ThiagoKS-7/master/profile-summary-card-output/radical/4-productive-time.svg" />     
+ </div>
+<br/>
+<br/> 
+  
   ```javascript
 const thiago = {
     pronouns: "He" | "Him",
@@ -86,15 +96,12 @@ const thiago = {
 </div>
 </details>
  
- <div align="center">
-   <img height="220em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ThiagoKS-7&background=10142e&color=0d112b&theme=tokyonight_duo" alt="ThiagoKS-7" /> 
-   <br/>
-   <br/>
-    <img height="240em" align="center" src="https://activity-graph.herokuapp.com/graph?username=ThiagoKS-7&theme=redical&bg_color=10142e&color=0d112b&radius=4"/>
+ <div align="left" style="display:flex; justify-content: space-between;">
+   <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=ThiagoKS-7&background=10142e&color=0d112b&theme=tokyonight_duo" alt="ThiagoKS-7" /> 
+     <img alt="T-pic" align="right" height="220" style="margin-left:10em; margin-top:10px; border-radius:50px;" src="https://user-images.githubusercontent.com/83460816/182281431-45ca6d26-8fd2-49d0-8c0d-0186ba7ee341.png">
 </div>
 <h4 align="left">Main Languages/Frameworks:</h4>  
-  <img align="right" alt="T-pic" height="180" style="margin-top:10px; border-radius:50px;" src="https://user-images.githubusercontent.com/83460816/182281431-45ca6d26-8fd2-49d0-8c0d-0186ba7ee341.png">
-<div style="display: inline_block; mb-8">
+<div style="display: inline_block; mb-8; mt-8">
   <img align="center" alt="Vue.js-logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />
   <img align="center" alt="Python-logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Ts-logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -103,6 +110,7 @@ const thiago = {
   <img align="center" alt="django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />  
   <img align="center" alt="Js-logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Mui-logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg">
+</div>
 <div>
   <h4 align="left">Connect with me:</h4>
   <a href = "mailto:thiagokasper101@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
