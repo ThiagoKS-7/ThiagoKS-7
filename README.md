@@ -28,13 +28,13 @@ You can click the Preview link to take a look at your changes.
   ```javascript
 const thiago = {
     pronouns: "He" | "Him",
-    code: ["Python", "Javascript", "C","C#", "Java","Ruby", "Go", "Arduino", "Jupyter_Notebook"],
+    code: ["Python", "Javascript", "C","C#", "Java","Ruby", "Go", "Arduino", "Jupyter_Notebook", "Shell Script"],
     askMeAbout: [ "Web_Dev","Mobile_Dev", "Machine_Learning_<3", "IOT", "Computer_Vision"],
     technologies: {
         mobile: ["React Native", "Ionic", "Flutter", "Android" ],
         frontEnd: {
             js: ["Vue.js", "React.js", "um pouco de Angular", "Next.js"],
-            css: ["material-ui", "styled-components", "bootstrap"]
+            css: ["material-ui", "styled-components", "bootstrap", "sass"]
         },
         backEnd: {
             js: ["Node.js e Express"],
@@ -42,8 +42,9 @@ const thiago = {
             others: ["PHP (Laravel)", "Golang" ] 
         },
         devOps: ["Docker🐳", "Docker-compose"],
-        databases: ["mongoDB", "MySql", "PgSQL", "Sqlite"],
-        misc: ["selenium python"]
+        databases: ["mongoDB", "MySql", "PgSQL", "Sqlite", "Oracle"],
+        cloud: ["GCP", "OCI", "AWS", "Firebase"],
+        misc: ["Selenium python", "Shell script"],
     },
     currentProject: "Trying to learn image uploading to cloud",
     learning: [
@@ -52,6 +53,9 @@ const thiago = {
       "NoSQL",
       "Google Cloud",
       "OCI",
+      "Linux",
+      "Firebase",
+      "Azure",
       "PHP (Laravel)",
       "React Native",
       "Flutter",
