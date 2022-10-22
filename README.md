@@ -57,14 +57,18 @@ const thiago = {
       "Firebase",
       "Azure",
       "PHP (Laravel)",
+      "Lumen",
       "React Native",
       "Flutter",
       "Kubernetes",
       "Kafka",
       "Spark",
       "DDD".
-      "Elastic stack",
-      "RabbitMQ"
+      "Elasticsearch",
+      "RabbitMQ",
+      "GraphQl",
+      "FastAPI",
+      "Graphana"
     ].
 };
 ```
