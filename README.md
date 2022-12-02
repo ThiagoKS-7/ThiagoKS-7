@@ -4,24 +4,24 @@
 ThiagoKS-7/ThiagoKS-7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<!-- 
+
 <h4 align ="left"> My Metrics...</h4>
 <div align="left">
   <a href="https://github.com/ThiagoKS-7">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoKS-7&show_icons=true&theme=nightowl&include_all_commits=true&count_private=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoKS-7&hide=jupyter%20notebook,cmake,html,css,scss,javascript,c&langs_count=8&layout=compact&theme=nightowl"/> -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoKS-7&hide=jupyter%20notebook,cmake,html,css,scss,javascript,c&langs_count=8&layout=compact&theme=nightowl"/>
 </div>
    
 <details>
   <summary style="font-size:30px; font-weight:bold"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> <h3>Some infos about me:</h3></summary>
   
-<!--  <div align="center">
+<div align="center">
   <img height="180em" src="https://raw.githubusercontent.com/ThiagoKS-7/ThiagoKS-7/master/profile-summary-card-output/radical/0-profile-details.svg" />
   <img height="180em" src="https://raw.githubusercontent.com/ThiagoKS-7/ThiagoKS-7/master/profile-summary-card-output/radical/1-repos-per-language.svg" />
   <img height="180em" src="https://raw.githubusercontent.com/ThiagoKS-7/ThiagoKS-7/master/profile-summary-card-output/radical/2-most-commit-language.svg" />
   <img height="180em" src="https://raw.githubusercontent.com/ThiagoKS-7/ThiagoKS-7/master/profile-summary-card-output/radical/3-stats.svg" />
   <img height="180em" src="https://raw.githubusercontent.com/ThiagoKS-7/ThiagoKS-7/master/profile-summary-card-output/radical/4-productive-time.svg" />     
- </div> -->
+ </div>
 <br/>
 <br/> 
   
@@ -115,7 +115,9 @@ const thiago = {
  
  <div align="left" style="display:flex; justify-content: space-between;">
    <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=ThiagoKS-7&background=10142e&color=0d112b&theme=tokyonight_duo" alt="ThiagoKS-7" /> 
-     <img alt="T-pic" align="right" height="210" style="margin-left:10em; margin-top:10px; border-radius:50px;" src="https://user-images.githubusercontent.com/83460816/182281431-45ca6d26-8fd2-49d0-8c0d-0186ba7ee341.png">
+     <img alt="T-pic" align="right" style="width:250px" src="https://user-images.githubusercontent.com/83460816/205210099-01ada954-b964-4291-a25f-59aab9c6d7f1.png">
+
+
 </div>
 <h4 align="left">Main Languages/Frameworks:</h4>  
 <div style="display: inline_block; mb-8; mt-8">
