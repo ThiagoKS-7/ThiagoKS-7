@@ -14,14 +14,13 @@ You can click the Preview link to take a look at your changes.
    
 <details>
   <summary style="font-size:30px; font-weight:bold"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> <h3>Some infos about me:</h3></summary>
-<!--   
 <div align="center">
   <img height="180em" src="https://raw.githubusercontent.com/ThiagoKS-7/ThiagoKS-7/master/profile-summary-card-output/radical/0-profile-details.svg" />
   <img height="180em" src="https://raw.githubusercontent.com/ThiagoKS-7/ThiagoKS-7/master/profile-summary-card-output/radical/1-repos-per-language.svg" />
   <img height="180em" src="https://raw.githubusercontent.com/ThiagoKS-7/ThiagoKS-7/master/profile-summary-card-output/radical/2-most-commit-language.svg" />
   <img height="180em" src="https://raw.githubusercontent.com/ThiagoKS-7/ThiagoKS-7/master/profile-summary-card-output/radical/3-stats.svg" />
   <img height="180em" src="https://raw.githubusercontent.com/ThiagoKS-7/ThiagoKS-7/master/profile-summary-card-output/radical/4-productive-time.svg" />     
- </div> -->
+ </div>
 <br/>
 <br/> 
   
