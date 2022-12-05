@@ -112,9 +112,9 @@ const thiago = {
 
 </details>
  
- <div align="left" style="display:flex; justify-content: space-between;">
+ <div align="center" style="display:flex; justify-content: center;">
    <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=ThiagoKS-7&background=10142e&color=0d112b&theme=tokyonight_duo" alt="ThiagoKS-7" /> 
-     <img alt="T-pic" align="right" style="width:250px" src="https://user-images.githubusercontent.com/83460816/205210099-01ada954-b964-4291-a25f-59aab9c6d7f1.png">
+<!--      <img alt="T-pic" align="right" style="width:250px" src="https://user-images.githubusercontent.com/83460816/205210099-01ada954-b964-4291-a25f-59aab9c6d7f1.png"> -->
 
 
 </div>
@@ -133,5 +133,5 @@ const thiago = {
   <h4 align="left">Connect with me:</h4>
   <a href = "mailto:thiagokasper101@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/thiagokasper" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://thiagoks.000webhostapp.com" target="_blank"><img src="https://img.shields.io/badge/-My%20Blog-%23007B5?style=for-the-badge&logo=AngelList"></a>
+<!--   <a href="https://thiagoks.000webhostapp.com" target="_blank"><img src="https://img.shields.io/badge/-My%20Blog-%23007B5?style=for-the-badge&logo=AngelList"></a> -->
 </div>
