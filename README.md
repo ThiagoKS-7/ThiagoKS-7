@@ -1,11 +1,11 @@
-# Hi there, my name's Thiago Kasper de Souza, nice to meet you! ☕
+# Hi there, my name's Thiago Kasper de Souza, nice to meet you!! ☕
 
 <!---
 ThiagoKS-7/ThiagoKS-7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
-<h4 align ="left"> My Metrics...</h4>
+<h4 align ="left"> My Metrics :atom: :</h4>
  <div align="left">
   <a href="https://github.com/ThiagoKS-7">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoKS-7&show_icons=true&theme=nightowl&include_all_commits=true&count_private=false"/>
