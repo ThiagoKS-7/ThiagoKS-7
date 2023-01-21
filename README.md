@@ -127,4 +127,5 @@ const thiago = {
   <a href = "mailto:thiagokasper101@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/thiagokasper" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://nuxt-portfolio-six.vercel.app/"><img src="https://img.shields.io/badge/-My%20Portfolio-brightgreen?style=for-the-badge&logo=1001tracklists&logoColor=white" /></a>
+  <a href="https://thiagoks.hashnode.dev/"><img src="https://img.shields.io/badge/-My%20Blog-blueviolet?style=for-the-badge&logo=1001tracklists&logoColor=white" /></a>
 </div>
