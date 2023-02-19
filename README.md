@@ -1,4 +1,4 @@
-# Hi there, my name's Thiago Kasper de Souza, nice to meet you! ☕
+# Hi there, my name's Thiago Kasper de Souza, nice to meet you!! ☕
 
 <!---
 ThiagoKS-7/ThiagoKS-7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
