@@ -108,7 +108,6 @@ const thiago = {
  
  <div align="center" style="display:flex; justify-content: center;">
    <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=ThiagoKS-7&background=10142e&color=0d112b&theme=tokyonight_duo" alt="ThiagoKS-7" /> 
-   <img alt="T-pic" align="right" style="width:250px" src="https://user-images.githubusercontent.com/83460816/205210099-01ada954-b964-4291-a25f-59aab9c6d7f1.png">
 
 
 </div>
