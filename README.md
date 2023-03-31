@@ -14,7 +14,7 @@ https://apetools.webprofusion.com/#/tools/imagegorilla
  <div align="left">
   <a href="https://github.com/ThiagoKS-7">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoKS-7&show_icons=true&theme=nightowl&include_all_commits=true&count_private=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoKS-7&hide=jupyter%20notebook,cmake,html,css,scss,javascript,c&langs_count=8&layout=compact&theme=nightowl"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoKS-7&hide=jupyter%20notebook,cmake,html,css,scss,javascript,c&langs_count=10&layout=compact&theme=nightowl"/>
 </div>
    
 <details>
@@ -132,6 +132,7 @@ const thiago = {
   <a href = "mailto:thiagokasper101@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/thiagokasper" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://nuxt-portfolio-six.vercel.app/"><img src="https://img.shields.io/badge/-My%20Portfolio-brightgreen?style=for-the-badge&logo=1001tracklists&logoColor=white" /></a>
-  <a href="https://thiagoks.hashnode.dev/"><img src="https://img.shields.io/badge/-My%20Blog-blueviolet?style=for-the-badge&logo=1001tracklists&logoColor=white" /></a>
+  <a href="https://thiagoks.hashnode.dev/"><img src="https://img.shields.io/badge/-My%20Blog-blueviolet?style=for-the-badge&logo=apachenetbeanside&logoColor=white" /></a>
   <a href="https://stackoverflow.com/users/21319740/thiago-kasper-de-souza"><img src="https://img.shields.io/badge/-StackOverflow-orange?style=for-the-badge&logo=stackoverflow&logoColor=white" /></a>
+  <a href="https://beacons.ai/thiagoks"><img src="https://img.shields.io/badge/-Beacons.ai-ff69b4?style=for-the-badge&logo=ibeacon&logoColor=white" /></a>
 </div>
