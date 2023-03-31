@@ -1,5 +1,6 @@
-<img src="https://user-images.githubusercontent.com/83460816/229183619-67d5c37c-82e2-4a8f-881c-570b0f402a72.gif"/>
-
+<div align="center">
+ <img height="330em" src="https://user-images.githubusercontent.com/83460816/229183619-67d5c37c-82e2-4a8f-881c-570b0f402a72.gif"/>
+</div>
 
 <!---
 ThiagoKS-7/ThiagoKS-7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
