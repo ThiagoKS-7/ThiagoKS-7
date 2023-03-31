@@ -11,7 +11,7 @@ https://apetools.webprofusion.com/#/tools/imagegorilla
 --->
 
 ## 📊 My metrics: 
- <div align="left">
+ <div align="center">
   <a href="https://github.com/ThiagoKS-7">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoKS-7&show_icons=true&theme=nightowl&include_all_commits=true&count_private=false"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoKS-7&hide=jupyter%20notebook,cmake,html,css,scss,javascript,c&langs_count=10&layout=compact&theme=nightowl"/>
