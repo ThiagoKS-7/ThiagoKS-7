@@ -16,60 +16,10 @@ https://apetools.webprofusion.com/#/tools/imagegorilla
 </div>
    
 <details>
-  <summary style="font-size:30px; font-weight:bold"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> <h3>Some infos about me:</h3></summary>
+  <summary style="font-size:30px; font-weight:bold"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> <h3>Click to see more info: </h3></summary>
 <br/>
-<br/> 
-  
-  ```javascript
-const thiago = {
-    pronouns: "He" | "Him",
-    code: ["Python", "Javascript", "C","C#", "Java","Ruby", "Go", "Arduino", "Jupyter_Notebook", "Shell Script"],
-    askMeAbout: [ "Web_Dev","Mobile_Dev", "Machine_Learning_<3", "IOT", "Computer_Vision"],
-    technologies: {
-        mobile: ["React Native", "Ionic", "Flutter", "Android" ],
-        frontEnd: {
-            js: ["Vue.js", "React.js", "um pouco de Angular", "Next.js"],
-            css: ["material-ui", "styled-components", "bootstrap", "sass"]
-        },
-        backEnd: {
-            js: ["Node.js e Express"],
-            python: ["Django", "Flask"],
-            others: ["PHP (Laravel)", "Golang" ] 
-        },
-        devOps: ["Docker🐳", "Docker-compose"],
-        databases: ["mongoDB", "MySql", "PgSQL", "Sqlite", "Oracle"],
-        cloud: ["GCP", "OCI", "AWS", "Firebase"],
-        misc: ["Selenium python", "Shell script"],
-    },
-    currentProject: "Trying to learn image uploading to cloud",
-    learning: [
-      "Machine learning API's",
-      "Tensorflow", 
-      "NoSQL",
-      "Google Cloud",
-      "OCI",
-      "Linux",
-      "Firebase",
-      "Azure",
-      "PHP (Laravel)",
-      "Lumen",
-      "React Native",
-      "Flutter",
-      "Kubernetes",
-      "Kafka",
-      "Spark",
-      "DDD".
-      "Elasticsearch",
-      "RabbitMQ",
-      "GraphQl",
-      "FastAPI",
-      "Graphana"
-    ].
-};
-```
-      
-<h2 align="left">My Skillset: 📚</h2>  
 
+<h2 align="left">My Skillset: 📚</h2>  
 
 **Programming Languages**
 
@@ -87,6 +37,7 @@ const thiago = {
 <img align="center" alt="Vue.js-logo" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg">|<img align="center" title="Numpy" alt="numpy" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg">|<img align="center" title="Pandas" alt="pandas" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg">|<img align="center" title="Putty" alt="putty" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg">|<img align="center" title="Next.js" alt="next.js" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg">
 <img align="center" title="Node.js" alt="node.js" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">|<img align="center" title="Npm" alt="npm" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">|<img align="center" title="Sass" alt="sass" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">|<img align="center" title="Yarn" alt="yarn" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg">|<img align="center" title="Vim" alt="vim" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg">|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg">|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg">
+<img align="center" title="Graphql" alt="graphql" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg">|<img align="center" title="Deno" alt="Deno" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/denojs/denojs-original-wordmark.svg">|<img align="center" title="Dotnet" alt="dotnet" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">|<img align="center" title="Express" alt="express" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">|<img alt="laravel" width="40" align="center" title="Laravel" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg"/>|
 
 
 **Cloud**
