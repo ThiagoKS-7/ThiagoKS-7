@@ -16,7 +16,7 @@ https://apetools.webprofusion.com/#/tools/imagegorilla
 </div>
    
 <details>
-  <summary style="font-size:30px; font-weight:bold"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> <h3>Click to see more info: </h3></summary>
+  <summary style="font-size:30px; font-weight:bold"><h3>Click for more info: </h3></summary>
 <br/>
 
 <h2 align="left">My Skillset: 📚</h2>  
