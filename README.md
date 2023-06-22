@@ -9,11 +9,23 @@ https://apetools.webprofusion.com/#/tools/imagegorilla
 --->
 
 ## 📊 My metrics: 
- <div align="center">
-  <a href="https://github.com/ThiagoKS-7">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoKS-7&show_icons=true&theme=nightowl&include_all_commits=true&count_private=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoKS-7&hide=jupyter%20notebook,cmake,html,css,scss,dart,c&langs_count=10&layout=compact&theme=nightowl"/>
+<div align='center'>
+  <br/>
+   <img height="180em" alt="ThiagoKS-7's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/ThiagoKS-7?cardType=level&theme=algolia&preferLogin=false" />
+  <a href="https://git.io/streak-stats">
+     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoKS-7&hide=jupyter%20notebook,cmake,html,css,scss,dart,c&langs_count=10&layout=compact&theme=algolia"/>
+  </a>
+  <a href="#">
+    <img  src="https://github-profile-trophy.vercel.app/?username=ThiagoKS-7&theme=algolia&row=1&column=6" alt="trophy">
+  </a>
 </div>
+
+
+<!-- <div align="center">
+  <a href="https://github.com/ThiagoKS-7">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoKS-7&show_icons=true&theme=nightowl&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoKS-7&hide=jupyter%20notebook,cmake,html,css,scss,dart,c&langs_count=10&layout=compact&theme=nightowl"/>
+</div> -->
    
 <details>
   <summary style="font-size:30px; font-weight:bold"><h3>Click for more info: </h3></summary>
@@ -60,9 +72,8 @@ https://apetools.webprofusion.com/#/tools/imagegorilla
 </details>
  
  <div align="center" style="display:flex; justify-content: center;">
-   <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=ThiagoKS-7&background=10142e&color=0d112b&theme=tokyonight_duo" alt="ThiagoKS-7" /> 
-
-
+   <img height="200em" src="http://github-readme-streak-stats.herokuapp.com?user=ThiagoKS-7&theme=algolia" alt="GitHub Streak">
+  <!-- <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=ThiagoKS-7&background=10142e&color=0d112b&theme=tokyonight_duo" alt="ThiagoKS-7" /> -->
 </div>
 <h4 align="left">Main Languages/Frameworks:</h4>  
 <div style="display: inline_block; mb-8; mt-8">
