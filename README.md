@@ -11,13 +11,13 @@ https://apetools.webprofusion.com/#/tools/imagegorilla
 ## 📊 My metrics: 
 <div align='center'>
   <br/>
-   <img height="180em" alt="ThiagoKS-7's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/ThiagoKS-7?cardType=level&theme=algolia&preferLogin=false" />
+   <img height="200em" alt="ThiagoKS-7's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/ThiagoKS-7?cardType=level&theme=algolia&preferLogin=false" />
   <a href="https://git.io/streak-stats">
-   <img height="180em" src="https://github-readme-stats-lyart-ten.vercel.app/api/top-langs/?username=ThiagoKS-7&hide=jupyter%20notebook,cmake,html,css,scss,dart,c&langs_count=10&layout=compact&theme=algolia"/>
+   <img height="200em" src="https://github-readme-stats-lyart-ten.vercel.app/api/top-langs/?username=ThiagoKS-7&hide=jupyter%20notebook,cmake,html,css,scss,dart,c&langs_count=10&layout=compact&theme=algolia"/>
     <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoKS-7&hide=jupyter%20notebook,cmake,html,css,scss,dart,c&langs_count=10&layout=compact&theme=algolia"/> -->
   </a>
   <a href="#">
-    <img  src="https://github-profile-trophy.vercel.app/?username=ThiagoKS-7&theme=algolia&row=1&column=6" alt="trophy">
+    <img height="122em" src="https://github-profile-trophy.vercel.app/?username=ThiagoKS-7&theme=algolia&row=1&column=6" alt="trophy">
   </a>
 </div>
 
