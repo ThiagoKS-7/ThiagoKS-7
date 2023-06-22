@@ -8,7 +8,9 @@ You can click the Preview link to take a look at your changes.
 https://apetools.webprofusion.com/#/tools/imagegorilla
 --->
 
-## 📊 My metrics: 
+## <img  width="24" alt="tools"   src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" />   My metrics: 
+</div>
+
 <div align='center'>
   <br/>
    <img height="200em" alt="ThiagoKS-7's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/ThiagoKS-7?cardType=level&theme=algolia&preferLogin=false" />
@@ -29,7 +31,23 @@ https://apetools.webprofusion.com/#/tools/imagegorilla
 </div> -->
    
 <details>
-  <summary style="font-size:30px; font-weight:bold"><h3>Click for more info: </h3></summary>
+  <summary style="font-size:30px; font-weight:bold"> <h3> 📊 More info: </h3>
+  </summary>
+<br/>
+
+<details>
+   <summary><h3><b>:rocket: &nbsp;Github stats Detailed</b></h3></summary>
+   </br>
+    <div align='center'>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThiagoKS-7&theme=radical" alt="Profile Details">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ThiagoKS-7&theme=radical" alt="Repos per Language">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ThiagoKS-7&theme=radical" alt="Most Commit Language">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ThiagoKS-7&theme=radical" alt="Stats">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ThiagoKS-7&theme=radical&utcOffset=8" alt="Productive Time">
+    </div>
+   </br>
+</details>
+
 <br/>
 
 <h2 align="left">My Skillset: 📚</h2>  
@@ -105,3 +123,4 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wo
   <a href="https://stackoverflow.com/users/21319740/thiago-kasper-de-souza"><img src="https://img.shields.io/badge/-StackOverflow-orange?style=for-the-badge&logo=stackoverflow&logoColor=white" /></a>
   <a href="https://beacons.ai/thiagoks"><img src="https://img.shields.io/badge/-Beacons.ai-ff69b4?style=for-the-badge&logo=ibeacon&logoColor=white" /></a>
 </div>
+
