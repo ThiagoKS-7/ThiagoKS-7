@@ -94,7 +94,7 @@ https://apetools.webprofusion.com/#/tools/imagegorilla
    <img height="200em" src="http://github-readme-streak-stats.herokuapp.com?user=ThiagoKS-7&theme=algolia" alt="GitHub Streak">
   <!-- <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=ThiagoKS-7&background=10142e&color=0d112b&theme=tokyonight_duo" alt="ThiagoKS-7" /> -->
 </div>
-<h4 align="left">Main Languages/Frameworks:</h4>  
+<h4 align="left">Main Languages/Frameworks: </h4>  
 <div style="display: inline_block; mb-8; mt-8">
    <img align="center" title="Python" alt="Python-logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img align="center" alt="Node.js-logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
